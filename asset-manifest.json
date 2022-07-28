@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/skillPortfolio/static/js/main.eb28ce89.js",
+    "index.html": "/skillPortfolio/index.html",
+    "main.eb28ce89.js.map": "/skillPortfolio/static/js/main.eb28ce89.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eb28ce89.js"
+  ]
+}
