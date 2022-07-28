@@ -19,7 +19,7 @@ function App() {
               </RequiredAuth>
             }
           />
-          <Route path="/" element={<Resume />} />
+          <Route path="/skillPortfolio" element={<Resume />} />
         </Routes>
       </BrowserRouter>
     </div>
